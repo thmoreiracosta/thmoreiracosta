@@ -6,8 +6,15 @@
 I'm a {Student Analysis and Systems Development | Front-end e Back-end Student} and Computer Technician.
 
 
-My history with the Information Technology area, comes from the days of the good and well-known hardware course, which I took and soon identified myself with. Then I graduated as a computer technician, I worked for two IT companies, and today I'm focusing on programming {Back-end and Front-end >>> Full Stack} if God wants: hands up :: skin-tone- 3 :: praying :: skin-tone-3:
+My history with the Information Technology area, comes from the days of the good and well-known hardware course, which I took and soon identified myself with. Then I graduated as a computer technician, I worked for two IT companies, and today I'm focusing on programming {Back-end and Front-end >>> Full Stack} if God wants!
 
+I am currently improving knowledge in programming languages:
+
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
 
 
