@@ -17,4 +17,4 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thmoreiracosta)](https://www.linkedin.com/in/thmoreiracosta)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thmoreiracosta)](https://twitter.com/thmoreiracosta)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/fink021/featured)](https://www.youtube.com/user/fink021/featured)
-[![Instagram Badge]https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thmoreiracosta)](https://www.instagram.com/thmoreiracosta)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thmoreiracosta)](https://www.instagram.com/thmoreiracosta)
