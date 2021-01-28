@@ -1,4 +1,6 @@
-# Hi, I'm Thiago Costa! 👋
+thmoreiracosta/README.md
+
+## Hi, I'm Thiago Costa! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thmoreiracosta)](https://github.com/thmoreiracosta)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thmoreiracosta)](https://www.linkedin.com/in/thmoreiracosta)
