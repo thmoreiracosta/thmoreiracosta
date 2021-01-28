@@ -6,7 +6,7 @@
 I'm a {Student Analysis and Systems Development | Front-end e Back-end Student} and Computer Technician.
 
 
-My history with the Information Technology area, comes from the days of the good and well-known hardware course, which I took and soon identified with the area. Then I graduated as a computer technician, I worked for two IT companies, and today I'm focusing on programming {Back-end and Front-end >>> Full Stack} if God wants: hands up :: skin-tone- 3 :: praying :: skin-tone-3
+My history with the Information Technology area, comes from the days of the good and well-known hardware course, which I took and soon identified myself with. Then I graduated as a computer technician, I worked for two IT companies, and today I'm focusing on programming {Back-end and Front-end >>> Full Stack} if God wants: hands up :: skin-tone- 3 :: praying :: skin-tone-3:
 
 
 
