@@ -13,7 +13,7 @@ I'm a {Student Analysis and Systems Development | Front-end e Back-end Student} 
 
 My history with the Information Technology area, comes from the days of the good and well-known hardware course, which I took and soon identified myself with. Then I graduated as a computer technician, I worked for two IT companies, and today I'm focusing on programming {Back-end and Front-end >>> Full Stack} if God wants!
 
-I am currently improving knowledge in programming languages:
+I'm currently improving knowledge in programming languages:
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
