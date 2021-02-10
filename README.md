@@ -23,9 +23,6 @@ I'm currently improving knowledge in programming languages:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/thmoreiracosta/github-readme-stats)
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 
 
 
